@@ -4,4 +4,4 @@ Gapernah pake chat gpt kecuali di pertemuan 10, latihan 1 njir
 
 Gak ngerti cara pake string di C++ si Dicky awkwkwk
 
-Tgl 7 nov, tambahin matkul lain ah mumpung
+Tgl 7 nov, tambahin matkul lain ah mumpung post test
